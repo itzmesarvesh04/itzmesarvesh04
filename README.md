@@ -1,3 +1,5 @@
+![logo](https://github.com/itzmesarvesh04/itzmesarvesh04/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Sarvesh Shinde</h1>
 <h3 align="center">A passionate Frontend Developer, Computer Engineering Student from India.</h3>
 
