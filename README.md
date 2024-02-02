@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **WEB DEVELOPMENT**
 
-- 🌱 I’m currently learning **FRONTEND DEVELOPEMENT**
+- 🌱 I’m currently learning **FRONTEND WEB DEVELOPEMENT**
 
 - 👨‍💻 My Linkedin Profile [https://www.linkedin.com/in/sarvesh-shinde-bb6bb527a/](https://www.linkedin.com/in/sarvesh-shinde-bb6bb527a/)
 
